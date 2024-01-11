@@ -6,7 +6,7 @@
 
 ### Add your Name, GitHub Name, Discipline
 * Bryan Bravo, bbravo101, Student
-*
+* Amélie Solanilla, AmelieST, Student
 *
 *
 *
